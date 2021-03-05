@@ -1,0 +1,6 @@
+#dir
+/out
+/.idea
+
+#wildcards
+*.iml
